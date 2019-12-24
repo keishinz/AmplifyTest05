@@ -21,6 +21,7 @@
 		805C8F8123B17DA100975D68 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 805C8F7C23B17D9600975D68 /* Note.swift */; };
 		805C8F8223B17DA400975D68 /* Task+Schema.swift in Sources */ = {isa = PBXBuildFile; fileRef = 805C8F7D23B17D9600975D68 /* Task+Schema.swift */; };
 		805C8F8323B17DA600975D68 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 805C8F7E23B17D9600975D68 /* Task.swift */; };
+		805C8FA523B1C7D400975D68 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 805C8FA423B1C7D400975D68 /* ResultsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		805C8F7C23B17D9600975D68 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
 		805C8F7D23B17D9600975D68 /* Task+Schema.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Task+Schema.swift"; sourceTree = "<group>"; };
 		805C8F7E23B17D9600975D68 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		805C8FA423B1C7D400975D68 /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
 		8A2F841F162572CC84C76FFF /* Pods-AmplifyTest05.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AmplifyTest05.release.xcconfig"; path = "Target Support Files/Pods-AmplifyTest05/Pods-AmplifyTest05.release.xcconfig"; sourceTree = "<group>"; };
 		B1E26ED0C5FA483B93F04998 /* amplifyconfiguration.json */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = amplifyconfiguration.json; path = ./amplifyconfiguration.json; sourceTree = "<group>"; };
 		D09DE441AABB4923B8A45993 /* amplify */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = amplify; path = ./amplify; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				805C8F6523B1786D00975D68 /* AppDelegate.swift */,
 				805C8F6723B1786D00975D68 /* SceneDelegate.swift */,
 				805C8F6923B1786D00975D68 /* ViewController.swift */,
+				805C8FA423B1C7D400975D68 /* ResultsViewController.swift */,
 				805C8F6B23B1786D00975D68 /* Main.storyboard */,
 				805C8F6E23B1786F00975D68 /* Assets.xcassets */,
 				805C8F7023B1786F00975D68 /* LaunchScreen.storyboard */,
@@ -246,6 +249,7 @@
 				805C8F6A23B1786D00975D68 /* ViewController.swift in Sources */,
 				805C8F8023B17D9F00975D68 /* Note+Schema.swift in Sources */,
 				805C8F6623B1786D00975D68 /* AppDelegate.swift in Sources */,
+				805C8FA523B1C7D400975D68 /* ResultsViewController.swift in Sources */,
 				805C8F6823B1786D00975D68 /* SceneDelegate.swift in Sources */,
 				805C8F8123B17DA100975D68 /* Note.swift in Sources */,
 				805C8F8223B17DA400975D68 /* Task+Schema.swift in Sources */,

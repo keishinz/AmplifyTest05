@@ -10,6 +10,7 @@ import UIKit
 
 import Amplify
 import AmplifyPlugins
+import IQKeyboardManagerSwift
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -27,6 +28,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         } catch {
             print("Failed to configure Amplify \(error)")
         }
+        
+        IQKeyboardManager.shared.enable = true
         
         return true
     }
